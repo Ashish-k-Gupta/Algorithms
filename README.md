@@ -6,12 +6,3 @@
 
 Learn computer science with Brian Holt!
 
-- [See the course website][site]
-
-## License
-
-The **code** is this repo is licensed under the Apache 2.0 license.
-
-The **content** is this repo is licensed under the CC-BY-NC-4.0 license.
-
-[site]: https://btholt.github.io/complete-intro-to-computer-science
